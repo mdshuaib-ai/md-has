@@ -1,0 +1,57 @@
+.tt{
+     color:red ;
+
+}
+ h1{
+ font-size:3em ;
+ }
+ body { 
+  font-family:snes-sarif ;
+ color:#777777 ;
+ line-height:40px ;
+ 
+ }
+ .btn{
+   color:white ;
+   background-color:red ;
+   padding:13px 42px 13px 42px ;
+   border-radius:23px ;
+   text-decoration:none ;
+ }
+ .half{
+   width:50% ;
+   float:left ;
+   }
+   .cc{
+   padding-left:5% ;
+   display:inline-block ;
+   }
+   .tyu{
+    padding-left:25% ;
+    width:50% ;
+    padding-top:50px ;
+   }
+ .ee{
+  border-radius:20px ;
+  background-color:rgb(238,251,255) ;
+  margin:3opx ;
+  padding:30px ;
+ }
+ et{
+    padding:10px ;
+    border-left:1px solid rgba(137,130,247,.2) ;
+ }
+  .st{
+   color:green;
+  }
+  .bt{
+   border-radius:30px ;
+   color:white ;
+   background-color:red ;
+   padding:23px 53px 23px 53px ;
+   text-decoration:none ;
+  }
+ 
+ 
+
+ 
